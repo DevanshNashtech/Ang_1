@@ -1,0 +1,44 @@
+.main {
+  background-image: linear-gradient(#D4A1B0, #A7ADC3,#55535E);
+   width: 100% !important;
+    display: flex; justify-content: center;
+     align-items: center;
+      height: 100vh;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+
+  .u-text{
+    text-decoration: none;
+  }
+  
+  .card-img {
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .text-danger {
+    font-size: 0.875em;
+  }
+  
+  .login-card {
+    width: 100%;
+    max-width: 800px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(200px) !important;
+  }
+  

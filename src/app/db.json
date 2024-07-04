@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "5915",
+      "email": "devanshshukla132@gmail.com",
+      "password": "Devansh@123"
+    },
+    {
+      "id": "e5e2",
+      "email": "devanshshukla132@gmail.com",
+      "password": "Devansh@123"
+    },
+    {
+      "id": "6d42",
+      "email": "sid@gmail.com",
+      "password": "Sid@123"
+    },
+    {
+      "id": "0ede",
+      "email": "a@gmail.com",
+      "password": "Amit@123"
+    },
+    {
+      "id": "59e8",
+      "email": "new@gmail.com",
+      "password": "New@12345"
+    },
+    {
+      "id": "7abf",
+      "email": "kj@gmail.com",
+      "password": "Apple@123"
+    },
+    {
+      "id": "cd4b",
+      "email": "arjun@gmail.com",
+      "password": "Arjun@123"
+    }
+  ]
+}
